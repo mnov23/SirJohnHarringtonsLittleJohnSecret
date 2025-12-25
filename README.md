@@ -1,5 +1,5 @@
-# ScrubTheToilet-FP_KnifeGame
-Project on hold while I learn some Blender 3D modelling on the side.
+# Sir John Harringon's Little John Secret.
+Project rebranded. The name will change yet again in the future. 
 
 project revived and still being slowly... disappointingly developed, chipped at with snail 🐌 like slow pace that puts Yandere Dev to shame. 
 
